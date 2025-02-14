@@ -10,6 +10,6 @@ Harsha Agrahara Satyanarayana
 eternosphere@engineer.com
 eternosphere@techie.com
 eternosphere@consultant.com
-www.eternosphere.wordpress.com
+www.eternosphere.io
 
 Designed & developed by Harsha
